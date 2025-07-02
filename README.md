@@ -1,10 +1,6 @@
-Here's a revised and polished version of your README:
-
----
-
 # 👋 Hi, I'm Vomesh Atukuri!
 
-### 🚀 Software Developer | JavaScript Enthusiast | Generative AI Innovator
+### 🚀 Software Developer | JavaScript Enthusiast | Generative AI
 
 **About Me:**  
 I'm a passionate software developer with deep expertise in the JavaScript ecosystem and a strong interest in Generative AI. At ITalent Digital, I specialize in bringing ambitious ideas to life through cutting-edge technology and innovative solutions.
@@ -35,7 +31,3 @@ I thrive on exploring new technologies, driving automation, and delivering impac
 - 💼 [LinkedIn](https://www.linkedin.com/in/vomeshatukuri/)
 
 > _"Code boldly. Innovate relentlessly. Keep learning, keep building."_
-
----
-
-Let me know if you want this tailored further or prefer a different tone!
